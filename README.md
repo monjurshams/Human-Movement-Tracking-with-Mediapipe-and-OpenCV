@@ -17,3 +17,5 @@ movements, I kept it open for any ML solutions that can be implemented later usi
 
 3. It also has a 15 sec pulse feature. That means, after every 15 seconds, the program will automatically append all the
 'landmarks' i.e the coordinates of the facial, pose, hands- of the previous 15 seconds to a list in a form of a dictionary. In that way, it can be used later as a dataset to study the behavior of the CSO.
+
+4. Project Video File Link: https://drive.google.com/file/d/1hOV16N5vTUuN2CqX5KRtJkb0Iq-Gvkxy/view?usp=sharing
